@@ -1,0 +1,22 @@
+[
+  {
+    "imageName": "https://github.com/Saykudan/animi/blob/main/Inspiration/Inspiration.png?raw=true",
+    "prompt": "Positive prompt for Item 1",
+    "negativePrompt": "Negative prompt for Item 1"
+  },
+  {
+      "imageName": "https://github.com/Saykudan/animi/blob/main/Inspiration/Inspiration.png?raw=true",
+    "prompt": "Positive prompt for Item 2",
+    "negativePrompt": "Negative prompt for Item 2"
+  },
+  {
+      "imageName": "https://github.com/Saykudan/animi/blob/main/Inspiration/Inspiration.png?raw=true",
+    "prompt": "Positive prompt for Item 3",
+    "negativePrompt": "Negative prompt for Item 3"
+  },
+  {
+      "imageName": "https://github.com/Saykudan/animi/blob/main/Inspiration/Inspiration.png?raw=true",
+    "prompt": "Positive prompt for Item 4",
+    "negativePrompt": "Negative prompt for Item 4"
+  }
+]
