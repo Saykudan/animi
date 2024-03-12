@@ -1,22 +1,42 @@
 [
   {
-    "imageName": "https://raw.githubusercontent.com/Saykudan/animi/main/Inspiration/Inspiration.png",
-    "prompt": "Positive prompt for Item 1",
+    "imageName": "https://raw.githubusercontent.com/Saykudan/animi/main/Inspiration/inspiration1.png",
+    "prompt": "{{{masterpiece}}}, {{{best quality}}}, {{ultra-detailed}}, {illustration}, {{an extremely delicate and human evil smile, evil smirk, glowing eyes, with humain body}},close-up person, {{a futuristic destroyed city on fire as background}}, ,real skin,back zipper,gear,range of motion,elbow,metal gloss,light reflection BREAK midnight,lots of flying moonlight butterfly,poor poverty,",
     "negativePrompt": "Negative prompt for Item 1"
   },
   {
-      "imageName": "https://raw.githubusercontent.com/Saykudan/animi/main/Inspiration/Inspiration.png",
-    "prompt": "Positive prompt for Item 2",
-    "negativePrompt": "Negative prompt for Item 2"
+    "imageName": "https://raw.githubusercontent.com/Saykudan/animi/main/Inspiration/inspiration2.png",
+    "prompt": "{{{masterpiece}}}, {{{best quality}}}, {{ultra-detailed}}, {illustration}, green eyes, colorful, autumn, cumulonimbus clouds, lighting, blue sky, falling leaves, garden",
+    "negativePrompt": "low quality,realistic, cleavage,retro artstyle, lat color,lat shading, adult, long body,Low quality mapping, bad feet_hand_finger_leg_eye, Deformed body, extra limbs, Missing limbs, fused limbs, incorrect limb, hair fused with items, More than two cows, more than 2 eyes, missing eyes, extra_mouth, misplaced arms, more than 2 arms, weird arms, arm too short, fused hand, mutated hands and fingers, weird hand, missing palm, fused fingers, liquid digit, thighs, Multi foot, extra feet, three legs, wrong direction of legs, Skirt lift, fused seam, poorly drawn cloth, Multifold,long body, wrong joint angle, missing eyes, extra_mouth, Sleeveless,animal ear,((shoulder)),animal ears,"
   },
   {
-      "imageName": "https://raw.githubusercontent.com/Saykudan/animi/main/Inspiration/Inspiration.png",
-    "prompt": "Positive prompt for Item 3",
-    "negativePrompt": "Negative prompt for Item 3"
+    "imageName": "https://raw.githubusercontent.com/Saykudan/animi/main/Inspiration/inspiration3.png",
+    "prompt": "{{{masterpiece}}}, {{{best quality}}}, {{ultra-detailed}}, {illustration}, 1girl, leaning against wall, solo, nice pants,  crop top,  jacket, hair, navel, eyes, off shoulder, choker, smile, jewelry, looking at viewer, earrings, open clothes,  hair, cleavage, grin, midriff, bare shoulders, collarbone, sleeveless, standing",
+    "negativePrompt": "low quality,realistic, cleavage,retro artstyle, lat color,lat shading, adult, long body,Low quality mapping, bad feet_hand_finger_leg_eye, Deformed body, extra limbs, Missing limbs, fused limbs, incorrect limb, hair fused with items, More than two cows, more than 2 eyes, missing eyes, extra_mouth, misplaced arms, more than 2 arms, weird arms, arm too short, fused hand, mutated hands and fingers, weird hand, missing palm, fused fingers, liquid digit, thighs, Multi foot, extra feet, three legs, wrong direction of legs, Skirt lift, fused seam, poorly drawn cloth, Multifold,long body, wrong joint angle, missing eyes, extra_mouth, Sleeveless,animal ear,((shoulder)),animal ears,"
   },
   {
-      "imageName": "https://raw.githubusercontent.com/Saykudan/animi/main/Inspiration/Inspiration.png",
-    "prompt": "Positive prompt for Item 4",
-    "negativePrompt": "Negative prompt for Item 4"
+    "imageName": "https://raw.githubusercontent.com/Saykudan/animi/main/Inspiration/inspiration4.png",
+    "prompt": "{{{masterpiece}}}, {{{best quality}}}, {{ultra-detailed}}, {illustration}, White {{{torn cloak, holes in clothes}}}, white sniper rifle, white hair, science fiction, futuristic clothes, white and grey clothes, white cloak, snow field, 1girl",
+    "negativePrompt": "low quality,realistic, cleavage,retro artstyle, lat color,lat shading, adult, long body,Low quality mapping, bad feet_hand_finger_leg_eye, Deformed body, extra limbs, Missing limbs, fused limbs, incorrect limb, hair fused with items, More than two cows, more than 2 eyes, missing eyes, extra_mouth, misplaced arms, more than 2 arms, weird arms, arm too short, fused hand, mutated hands and fingers, weird hand, missing palm, fused fingers, liquid digit, thighs, Multi foot, extra feet, three legs, wrong direction of legs, Skirt lift, fused seam, poorly drawn cloth, Multifold,long body, wrong joint angle, missing eyes, extra_mouth, Sleeveless,animal ear,((shoulder)),animal ears,"
+  },
+  {
+    "imageName": "https://raw.githubusercontent.com/Saykudan/animi/main/Inspiration/inspiration5.png",
+    "prompt": "{{{masterpiece}}}, {{{best quality}}}, {{ultra-detailed}}, {illustration}, {{scenery background}},depth of field, focus_on_face, wet skin, 1girl, yellow eyes, (anger), horns, (silver armor), metal, complex pattern, corner, cape, indifference",
+    "negativePrompt": "low quality,realistic, cleavage,retro artstyle, lat color,lat shading, adult, long body,Low quality mapping, bad feet_hand_finger_leg_eye, Deformed body, extra limbs, Missing limbs, fused limbs, incorrect limb, hair fused with items, More than two cows, more than 2 eyes, missing eyes, extra_mouth, misplaced arms, more than 2 arms, weird arms, arm too short, fused hand, mutated hands and fingers, weird hand, missing palm, fused fingers, liquid digit, thighs, Multi foot, extra feet, three legs, wrong direction of legs, Skirt lift, fused seam, poorly drawn cloth, Multifold,long body, wrong joint angle, missing eyes, extra_mouth, Sleeveless,animal ear,((shoulder)),animal ears,"
+  },
+  {
+    "imageName": "https://raw.githubusercontent.com/Saykudan/animi/main/Inspiration/inspiration6.png",
+    "prompt": "(dramatic, gritty, intense:1.4), insane details, intricate details, hyperdetailed, hyper quality, high detail, ultra detailed, Masterpiece,Red and black red background red theme,Simple background,1boy, solo,male, focus, (hair slicked back:1.4),black hair,dlosed mouth,jewelry arm tattoo,tattoo necklace hands in pockets piercing (Jacket:1.5)",
+    "negativePrompt": "low quality,realistic, cleavage,retro artstyle, lat color,lat shading, adult, long body,Low quality mapping, bad feet_hand_finger_leg_eye, Deformed body, extra limbs, Missing limbs, fused limbs, incorrect limb, hair fused with items, More than two cows, more than 2 eyes, missing eyes, extra_mouth, misplaced arms, more than 2 arms, weird arms, arm too short, fused hand, mutated hands and fingers, weird hand, missing palm, fused fingers, liquid digit, thighs, Multi foot, extra feet, three legs, wrong direction of legs, Skirt lift, fused seam, poorly drawn cloth, Multifold,long body, wrong joint angle, missing eyes, extra_mouth, Sleeveless,animal ear,((shoulder)),animal ears,"
+  },
+  {
+    "imageName": "https://raw.githubusercontent.com/Saykudan/animi/main/Inspiration/inspiration7.png",
+    "prompt": "(masterpiece, best quality, ultra-detailed, award-winning, illustration, CG, character art), (1girl), ((detailed eyes, high quality eyes, high quality face, both eyes the same)), (extremely intricate robes, magical robes), short hair, casting fire, swirling fire, radiating power, sparks, smoke, magic, dramatic, epic, battlefield, depth of field, bokeh, 4k",
+    "negativePrompt": "low quality,realistic, cleavage,retro artstyle, lat color,lat shading, adult, long body,Low quality mapping, bad feet_hand_finger_leg_eye, Deformed body, extra limbs, Missing limbs, fused limbs, incorrect limb, hair fused with items, More than two cows, more than 2 eyes, missing eyes, extra_mouth, misplaced arms, more than 2 arms, weird arms, arm too short, fused hand, mutated hands and fingers, weird hand, missing palm, fused fingers, liquid digit, thighs, Multi foot, extra feet, three legs, wrong direction of legs, Skirt lift, fused seam, poorly drawn cloth, Multifold,long body, wrong joint angle, missing eyes, extra_mouth, Sleeveless,animal ear,((shoulder)),animal ears,"
+  },
+  {
+    "imageName": "https://raw.githubusercontent.com/Saykudan/animi/main/Inspiration/inspiration8.png",
+    "prompt": "(1girl), hot, petite, long braided orange hair, orange eyes, full round face, casual clothes, short smile, cinematic lightning, medium shot, mid-shot, highly detailed, trending on Artstation",
+    "negativePrompt": "low quality,realistic, cleavage,retro artstyle, lat color,lat shading, adult, long body,Low quality mapping, bad feet_hand_finger_leg_eye, Deformed body, extra limbs, Missing limbs, fused limbs, incorrect limb, hair fused with items, More than two cows, more than 2 eyes, missing eyes, extra_mouth, misplaced arms, more than 2 arms, weird arms, arm too short, fused hand, mutated hands and fingers, weird hand, missing palm, fused fingers, liquid digit, thighs, Multi foot, extra feet, three legs, wrong direction of legs, Skirt lift, fused seam, poorly drawn cloth, Multifold,long body, wrong joint angle, missing eyes, extra_mouth, Sleeveless,animal ear,((shoulder)),animal ears,"
   }
 ]
