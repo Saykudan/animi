@@ -28,7 +28,7 @@
     "tagName": "All"
   },
   {
-    "title": "Magazine Cover",
+    "title": "Cover",
     "prompt": "{{{{{{masterpiece, best quality, magazine cover, Bold headline, text on sides, bunch of texts}}}}}, ",
     "negativePrompt": "",
     "imageName": "https://raw.githubusercontent.com/Saykudan/animi/main/Styles/Style5.JPG",
