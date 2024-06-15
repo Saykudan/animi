@@ -30,5 +30,17 @@
             }
         ],
         "imageURL": null
+    },
+    {
+        "id": 3,
+        "title": "New Announcement",
+        "description": "This is the description of the new announcement.",
+        "paragraphs": [
+            {
+                "subTitle": "Subtitle 1",
+                "content": "Content for the new announcement."
+            }
+        ],
+        "imageURL": "https://example.com/image.jpg"
     }
 ]
