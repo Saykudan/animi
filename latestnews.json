@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "title": "Rainbow Contest 🌈",
+        "description": "Credit prizes: 1st: 100,000; 2nd: 80,000; 3rd: 60,000; 4th-10th: 40,000; 11th-20th: 20,000; 21st-30th: 10,000.",
+        "paragraphs": [
+            {
+                "subTitle": "Share your contest image on Twitter with the tags #Rainbow #Pride #Pixai and @pixai_official. Tweet with the most likes earns an extra 10,000 credits.",
+                "content": "This is the content of the first paragraph."
+            },
+            {
+                "subTitle": "Subtitle 2",
+                "content": "This is the content of the second paragraph."
+            }
+        ],
+        "imageURL": "https://images-ng.pixai.art/images/orig/f7a83e28-74ae-4acf-9124-60c363773ab4"
+    },
+    {
+        "id": 2,
+        "title": "Another News",
+        "description": "This is the description of another news.",
+        "paragraphs": [
+            {
+                "subTitle": "Subtitle 1",
+                "content": "This is the content of the first paragraph."
+            }
+        ],
+        "imageURL": null
+    }
+]
