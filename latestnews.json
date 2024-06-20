@@ -268,5 +268,17 @@
             }
         ],
         "imageURL": "https://example.com/image.jpg"
+    },
+                                                                              {
+        "id": 22,
+        "title": "fdfdfdf",
+        "description": "This sdsddsdis the description of the nljmljmlnew announcement.",
+        "paragraphs": [
+            {
+                "subTitle": "Subtitle 1",
+                "content": "Content for the new announcement."
+            }
+        ],
+        "imageURL": "https://example.com/image.jpg"
     }
 ]
