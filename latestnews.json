@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "title": "Rainbow Contest hhhhhh cool by the wayd 🌈",
+        "title": "Rainbow Contest hhhhhh cool by the way 🌈",
         "description": "Credit prizes: 1st: 100,000; 2nd: 80,000; 3rd: 60,000; 4th-10th: 40,000; 11th-20th: 20,000; 21st-30th: 10,000.",
         "paragraphs": [
             {
@@ -19,7 +19,8 @@
         ],
         "imageURL": "https://images-ng.pixai.art/images/orig/f7a83e28-74ae-4acf-9124-60c363773ab4",
         "date": "2024-07-09",
-        "rateUsButtonVisibility": 1
+        "rateUsButtonVisibility": 1,
+        "winnerConfirmationButtonVisibility": 1
     },
     {
         "id": 2,
@@ -33,7 +34,8 @@
         ],
         "imageURL": null,
         "date": "2024-07-09",
-        "rateUsButtonVisibility": 0
+        "rateUsButtonVisibility": 0,
+        "winnerConfirmationButtonVisibility": 0
     },
     {
         "id": 3,
@@ -47,6 +49,7 @@
         ],
         "imageURL": null,
         "date": "2024-07-07",
-        "rateUsButtonVisibility": 1
+        "rateUsButtonVisibility": 1,
+        "winnerConfirmationButtonVisibility": 0
     }
 ]
