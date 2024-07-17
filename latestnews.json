@@ -18,7 +18,8 @@
             }
         ],
         "imageURL": "https://images-ng.pixai.art/images/orig/f7a83e28-74ae-4acf-9124-60c363773ab4",
-        "date": "2024-07-09"
+        "date": "2024-07-09",
+        "rateUsButtonVisibility": 1
     },
     {
         "id": 2,
@@ -31,7 +32,8 @@
             }
         ],
         "imageURL": null,
-        "date": "2024-07-09"
+        "date": "2024-07-09",
+        "rateUsButtonVisibility": 0
     },
     {
         "id": 3,
@@ -44,6 +46,7 @@
             }
         ],
         "imageURL": null,
-        "date": "2024-07-07"
+        "date": "2024-07-07",
+        "rateUsButtonVisibility": 1
     }
 ]
