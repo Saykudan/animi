@@ -31,7 +31,7 @@
         ],
         "imageURL": "https://firebasestorage.googleapis.com/v0/b/ai-anime-generator.appspot.com/o/contestart%2FContest1-2.png?alt=media&token=b25252a1-8e4d-4f61-9b7a-e2fc56aea913",
         "date": "2024-07-19",
-        "rateUsButtonVisibility": 0,
+        "rateUsButtonVisibility": 1,
         "winnerConfirmationButtonVisibility": 0
     }
 ]
