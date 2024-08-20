@@ -33,5 +33,21 @@
         "date": "2024-07-19",
         "rateUsButtonVisibility": 1,
         "winnerConfirmationButtonVisibility": 0
+    },
+
+        {
+        "id": 2,
+        "title": "⚠️ API Issue Alert ⚠️",
+        "description": "We noticed some issues with API-based image generation. The update is coming soon! Apologies for any inconvenience caused. 🤝",
+        "paragraphs": [
+            {
+                "subTitle": "",
+                "content": ""
+            }
+        ],
+        "imageURL": "",
+        "date": "2024-08-20",
+        "rateUsButtonVisibility": 0,
+        "winnerConfirmationButtonVisibility": 0
     }
 ]
