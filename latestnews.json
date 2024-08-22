@@ -37,8 +37,8 @@
 
         {
         "id": 2,
-        "title": "⚠️ API Issue Alert ⚠️",
-        "description": "We noticed some issues with API-based image generation. The update is coming soon! Apologies for any inconvenience caused. 🤝",
+        "title": "API Issue Resolved",
+        "description": "The API image generation issue is fixed. Please update the app from the App Store. Thanks for your understanding! 🤝",
         "paragraphs": [
             {
                 "subTitle": "",
