@@ -1,0 +1,62 @@
+[
+  {
+    "modelId": "784137028519452011",
+    "title": "Ponyxl 6.0",
+    "imageURL": "https://image.tensorartassets.com/cdn-cgi/image/anim=true,plain=false,w=2048,f=jpeg,q=85/workflow_template_showcase/0/f2c65078-5550-51ea-3fcf-07d7494a554e.png",
+    "recommendedPrompt": "score_9, score_8_up, score_7_up, source_anime,",
+    "recommendedNegativePrompt": "score_6,score_5,score_4,, worst quality, low quality, bad anatomy, bad hands, missing fingers, fewer digits, source_furry, source_pony, source_cartoon,3d, blurry,",
+    "recommendedCfgScale": 5,
+    "recommendedClipSkip": 2,
+    "recommendedSteps": 25,
+    "recommendedVae": null,
+    "recommendedSampler": "Euler"
+  },
+  {
+    "modelId": "715330162083890035",
+    "title": "PonyVision",
+    "imageURL": "https://image.tensorartassets.com/cdn-cgi/image/w=150,f=avif/model_showcase/715330162083890035/54c36962-696e-f58e-5b0d-9004d276c342.png",
+    "recommendedPrompt": null,
+    "recommendedNegativePrompt": "(score_4, score_3, score_2, score_1, bad hands, bad feet, missing fingers, missing arms, missing legs, 3D, photorealistic, hyper-realistic, realistic, rough sketch, fewer digits, extra digits, watermark, signature, text font, username, logo, words, letters, digits, autograph, trademark",
+    "recommendedCfgScale": 7,
+    "recommendedClipSkip": 2,
+    "recommendedSteps": 30,
+    "recommendedVae": null,
+    "recommendedSampler": "Euler a"
+  },
+  {
+    "modelId": "792968125525130782",
+    "title": "MaxAnimēV3",
+    "imageURL": "https://image.tensorartassets.com/cdn-cgi/image/anim=true,plain=false,w=2048,f=jpeg,q=85/workflow_template_showcase/792968125525130782/0ff4dbc0-1917-489d-5ac9-2d318cf23d88.png",
+    "recommendedPrompt": null,
+    "recommendedNegativePrompt": "EasyNegative, badhandsv5-neg, three hand, more than two arms, verybadimagenegative_v1.3, ng_deepnegative_v1_75t, (ugly face:0.8), cross-eyed, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, skin spots, acnes, skin blemishes, bad anatomy, DeepNegative, ((extra fingers:1.2)), facing away, tilted head, {Multiple people}, lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worstquality, low quality, normal quality, jpegartifacts, signature, watermark, username, blurry, bad feet, cropped, poorly drawn hands, poorly drawn face, mutation, deformed, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, extra fingers, fewer digits, extra limbs, extra arms, extra legs, malformed limbs, fused fingers, too many fingers, long neck, cross-eyed, mutated hands, polar lowres, bad body, bad proportions, gross proportions, text, error, missing fingers, missing arms, missing legs, extra digit, extra arms, extra leg, extra foot, ((repeating hair)), extra fingers, cross-eye, squint, Umbrella, ((nude)), Nipple, ((Monochrome))",
+    "recommendedCfgScale": 7,
+    "recommendedClipSkip": 2,
+    "recommendedSteps": 25,
+    "recommendedVae": null,
+    "recommendedSampler": "Euler a"
+  },
+  {
+    "modelId": "620996325028155905",
+    "title": "ToonYouV2",
+    "imageURL": "https://image.tensorartassets.com/cdn-cgi/image/anim=true,plain=false,w=2048,f=jpeg,q=85/model_showcase/620996325028155905/37deef69-0d4a-f095-dd0b-c1c0db4cf605.jpeg",
+    "recommendedPrompt": "(best quality, masterpiece),",
+    "recommendedNegativePrompt": null,
+    "recommendedCfgScale": 8,
+    "recommendedClipSkip": 2,
+    "recommendedSteps": 25,
+    "recommendedVae": null,
+    "recommendedSampler": "Euler a"
+  },
+  {
+    "modelId": "659716967030304328",
+    "title": "AziibPixelMix",
+    "imageURL": "https://image.tensorartassets.com/cdn-cgi/image/anim=true,plain=false,w=2048,f=jpeg,q=85/model_showcase/659716967030304328/325c3f55-0762-534a-3e5b-046e6c6a4a01.jpeg",
+    "recommendedPrompt": null,
+    "recommendedNegativePrompt": null,
+    "recommendedCfgScale": null,
+    "recommendedClipSkip": null,
+    "recommendedSteps": null,
+    "recommendedVae": null,
+    "recommendedSampler": null
+  }
+]
