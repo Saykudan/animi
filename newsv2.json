@@ -1,0 +1,30 @@
+{
+   "selectedIdToShow": 1,
+   "showBanner": true, 
+   "showSelectedNews": true,
+   "newsItems": [
+       {
+           "id": 1,
+           "title": "🎨 Enhanced AI Model: Anime V2 Update",
+           "description": "We're excited to introduce our improved Anime V2 model! Enjoy enhanced image generation with better quality, more consistent results, and improved anime-style outputs.",
+           "paragraphs": [
+               {
+                   "subTitle": "What's New",
+                   "content": "Our latest update brings significant improvements to image generation with our new Anime V2 model, offering better facial details, more consistent character designs, and enhanced background generation."
+               },
+               {
+                   "subTitle": "Community Thanks",
+                   "content": "A huge thank you to our amazing community for your continued support and feedback. Your suggestions have helped shape these improvements and make our app better for everyone."
+               },
+               {
+                   "subTitle": "Coming Soon",
+                   "content": "We're working on even more exciting features and improvements. Stay tuned for future updates that will bring new creative possibilities to your anime art generation!"
+               }
+           ],
+           "imageURL": "",
+           "date": "2024-01-08",
+           "rateUsButtonVisibility": 1,
+           "winnerConfirmationButtonVisibility": 0
+       }
+   ]
+}
