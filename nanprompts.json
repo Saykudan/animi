@@ -5,23 +5,23 @@
     "prompts": [
       {
         "id": 1,
-        "title": "At Coachella",
-        "prompt": "",
-        "image_url": "https://github.com/Saykudan/animi/blob/main/BannerGif/Coachella.gif?raw=true",
+        "title": "Nano Banana 2",
+        "prompt": "Instant edits, playful prompts, crisp visuals, and limitless creative control.",
+        "image_url": "https://github.com/Saykudan/animi/blob/main/BannerGif/banana.png?raw=true",
         "gender": "any",
         "category": "banner",
         "category_id": 0,
-        "category_name": "At Coachella"
+        "category_name": ""
       },
       {
         "id": 2,
-        "title": "Inside the Cup POV",
-        "prompt": "",
-        "image_url": "https://github.com/Saykudan/animi/blob/main/BannerGif/drink.gif?raw=true",
+        "title": "Seedream 5.0",
+        "prompt": "Fast image generation, consistent characters, smart edits, and creative prompts.",
+        "image_url": "https://github.com/Saykudan/animi/blob/main/BannerGif/seedream.png?raw=true",
         "gender": "any",
         "category": "banner",
         "category_id": 0,
-        "category_name": "Inside the Cup POV"
+        "category_name": ""
       }
     ]
   },
